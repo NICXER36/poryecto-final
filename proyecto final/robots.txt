@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://teclab.uct.cl/nicolas.huenchullan/sitemap.xml 
