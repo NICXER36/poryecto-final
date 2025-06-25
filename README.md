@@ -1,4 +1,4 @@
-# poryecto-final
+# proyecto-final
 portafolio conectado a servidor con funciones crud para proyectos
 
 enlace:https://teclab.uct.cl/~nicolas.huenchullan/
